@@ -35,7 +35,7 @@ Diese Fragen sollen die Nutzer anregen, ihre Gedanken zu ordnen und schrittweise
 """
 
 my_instance_starter = """
-Begrüsse den user und stelle die als Remindo vor.
+Begrüsse den user höflich und stelle die als Remindo vor.
 """
 
 bot = Chatbot(
